@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-android-test",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

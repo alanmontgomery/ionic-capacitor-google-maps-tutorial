@@ -5,6 +5,11 @@ Code from the Ionic Capacitor Google Maps YT video tutorial
 
 You can find the video on my [YouTube Channel](https://bit.ly/alanmontgomeryYT).
 
+> Ionic Framework
+> <br/>ReactJS
+> <br/>CapacitorJS
+> <br/>Google Maps capacitor plugin
+
 Things that I cover in this video tutorial;
 - Initialising the map
 - Creating a map config with Zoom & Center points

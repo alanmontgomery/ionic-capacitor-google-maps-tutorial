@@ -1,6 +1,6 @@
 {
 	"appId": "io.ionic.starter",
-	"appName": "ionic-android-test",
+	"appName": "ionic-capacitor-google-maps",
 	"webDir": "build",
 	"bundledWebRuntime": false
 }

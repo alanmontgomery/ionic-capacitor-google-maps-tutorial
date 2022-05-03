@@ -8,6 +8,10 @@ import { MarkerInfoWindow } from '../components/MarkerInfoWindow';
 
 const Home = () => {
 
+  //  This key is now dead!
+  //  Replace with your own :)
+  //  Remember to secure keys using env files or requesting from server!
+  //  This was for demo purposes :)
   const key = "AIzaSyBJwKYcub1yNcDd2V8iu4ZfGvDi4eW_fpU";
   let newMap;
   const mapRef = useRef(null);
